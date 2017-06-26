@@ -1,0 +1,3 @@
+Hello Command Line
+add text
+no new lineagain with not new line -n
